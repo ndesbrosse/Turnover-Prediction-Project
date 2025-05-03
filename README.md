@@ -1,4 +1,4 @@
-# Projet Turnover
+# Turnover Prediction Project
 
 Afin d'apprendre à manipuler des modèles de machine learning, nous avons pu traiter le sujet des départs dans une entreprise. 
 En effet, aujourd'hui il est possible d'essayer de prévoir si un employé va partir de lentreprise en fonction de plusieurs variables.
